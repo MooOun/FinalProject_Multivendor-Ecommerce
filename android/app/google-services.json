@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498907644873",
+    "project_id": "circularmall-ae4d5",
+    "storage_bucket": "circularmall-ae4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498907644873:android:1123d87c89258a07975e18",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.circular__mall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498907644873-ck00tsd3umn3dvl3r1nr0720u76fvsga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterthailand.circular__mall",
+            "certificate_hash": "04310a0c9af14f46418524eb4f1ef90e45d15823"
+          }
+        },
+        {
+          "client_id": "498907644873-kr9fcvm4jkoguisep9fucukjig8jte6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpSM4GTjzXqXaQ_1npnmVX7FZchYl0B7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498907644873-kr9fcvm4jkoguisep9fucukjig8jte6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
